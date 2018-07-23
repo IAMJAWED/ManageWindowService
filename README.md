@@ -14,10 +14,10 @@ Using Manage window service task, you can manage window-based service to perform
 **_Installation:_**
 
 After successful integration/installation of extension, you should be able see task under “Add task” list as follow:
-![AddTask](/images/AddTask.PNG)
+![AddTask](/images/AddTask.PNG =500x500)
 
 This “Manage window service” task will provide you below actions to be performed on window service(s).
-![Actions](/images/Actions.png)
+![Actions](/images/Actions.png =100x20)
 
 **_1.	Create Service:_**
 
